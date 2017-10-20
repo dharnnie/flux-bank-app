@@ -1,3 +1,23 @@
+<p align="center">
+  <img src="https://www.google.com.ng/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjBm_e81__WAhUMPRoKHUqzAcUQjRwIBw&url=https%3A%2F%2Fwww.worldfinance.com%2Fbanking%2Fprivate&psig=AOvVaw1Fqgt9qW1ZO1Rq0ECz0xps&ust=1508605465230568" title="Simple banking app with ReactJS|Flux">
+</p>
+
+##Bankify
+
+**How to catch a feel of this..** :money-mouth
+
+clone : git clone https://github.com/dharnnie/flux-bank-app.git
+
+change dir: cd flux-bank-app
+
+install dependencies: npm install
+
+run : npm start
+
+Wait for it!... :nerd
+
+Meanwhile, this project was create with create-react-app | here: [a link](https://github.com/facebookincubator/create-react-app)
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
@@ -283,7 +303,7 @@ In the WebStorm menu `Run` select `Edit Configurations...`. Then click `+` and s
 
 Start your app by running `npm start`, then press `^D` on macOS or `F9` on Windows and Linux or click the green debug icon to start debugging in WebStorm.
 
-The same way you can debug your application in IntelliJ IDEA Ultimate, PhpStorm, PyCharm Pro, and RubyMine. 
+The same way you can debug your application in IntelliJ IDEA Ultimate, PhpStorm, PyCharm Pro, and RubyMine.
 
 ## Formatting Code Automatically
 
@@ -1769,7 +1789,7 @@ If you’re using [Apache HTTP Server](https://httpd.apache.org/), you need to c
     RewriteRule ^ index.html [QSA,L]
 ```
 
-It will get copied to the `build` folder when you run `npm run build`. 
+It will get copied to the `build` folder when you run `npm run build`.
 
 If you’re using [Apache Tomcat](http://tomcat.apache.org/), you need to follow [this Stack Overflow answer](https://stackoverflow.com/a/41249464/4878474).
 
