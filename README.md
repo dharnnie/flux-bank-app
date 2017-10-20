@@ -4,7 +4,7 @@
 
 ##Bankify
 
-**How to catch a feel of this..** :money-mouth
+**How to catch a feel of this..**
 
 clone : git clone https://github.com/dharnnie/flux-bank-app.git
 
@@ -14,9 +14,7 @@ install dependencies: npm install
 
 run : npm start
 
-Wait for it!... :nerd
-
-Meanwhile, this project was create with create-react-app | here: [a link](https://github.com/facebookincubator/create-react-app)
+Wait for it!...
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
