@@ -48,12 +48,12 @@ class App extends Component {
           <button onClick={this.withdraw.bind(this)}>Withdraw</button>
           <button onClick={this.deposit.bind(this)}>Deposit</button>
         </div><br/>
-        <div>
+      {/*<div>
           <h1>This is the 2nd time you are clicking me</h1>
           <div>
             <button onClick={this.clicker.bind(this)}>Clicker</button>
           </div>
-        </div>
+        </div>*/}
       </div>
     );
   }
